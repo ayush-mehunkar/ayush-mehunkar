@@ -2,7 +2,7 @@
 
 I'm a [DevOps / Cloud] learner currently building hands-on skills with AWS and DevOps at [ClouderWay Academy](https://clouderway.com).
 
-📍 Based in [City, India] &nbsp;|&nbsp; 🎯 Goal: Cloud/DevOps Engineer role by [Month Year]
+📍 Based in [Nagpur, India] &nbsp;|&nbsp; 🎯 Goal: Cloud/DevOps Engineer role by [09/2026]
 
 ---
 
@@ -50,7 +50,7 @@ I'm a [DevOps / Cloud] learner currently building hands-on skills with AWS and D
 ## 📬 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- 📧 Email: your.email@gmail.com
+- 📧 Email: ayushmehunkar767@gmail.com
 
 ---
 
