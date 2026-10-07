@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Ayush Mehunkar] 👋
 
 I'm a [DevOps / Cloud] learner currently building hands-on skills with AWS and DevOps at [ClouderWay Academy](https://clouderway.com).
 
