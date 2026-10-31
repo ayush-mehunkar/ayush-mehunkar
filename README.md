@@ -41,7 +41,7 @@ I'm a DevOps and Cloud learner building hands-on skills with Linux, Bash scripti
 | 03 | Terraform: S3 Website Hosting | Host a static website on Amazon S3 using Terraform. | [View →](https://github.com/YOUR_USERNAME/terraform-s3-website) |
 | 04 | AWS: Static Website on S3 | Host a static website using Amazon S3. | [View →](https://github.com/YOUR_USERNAME/aws-s3-static-hosting) |
 | 05 | Shell Scripting: Automate Apache Deployment | Automate Apache2 installation and startup on Ubuntu Linux using a Bash script. | [View →](https://bitbucket.org/ayush-mehunkar/shell-scripting-automating-apache-deployment) |
-| 06 | Kubernetes: Deployed an Nginx web server using Kubernetes, Docker, and Minikube with 3 Pods and a NodePort Service. |   [View →](https://github.com/ayush-mehunkar/Kubernetes-Nginx-Deployment) |
+| 06 | Kubernetes: Kubernetes Nginx Deployment     | Deployed an Nginx web server using Kubernetes, Docker, and Minikube with 3 Pods and a NodePort Service. |   [View →](https://github.com/ayush-mehunkar/Kubernetes-Nginx-Deployment) |
 
 > More projects will be added as I complete new learning modules.
 
